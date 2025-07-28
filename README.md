@@ -19,7 +19,7 @@
 
 ## 🚀 在线体验
 
-> [👉 点击体验 GitHub Pages 部署版本]([https://your-username.github.io/SelectiveMutismHelper/](https://hesterhql.github.io/SelectiveMutismHelper/))
+> [👉 点击体验 GitHub Pages 部署版本](https://hesterhql.github.io/SelectiveMutismHelper/)
 
 
 # 🗣️ SelectiveMutismHelper
