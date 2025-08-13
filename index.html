@@ -332,7 +332,7 @@
             // 1) 统一用简单 payload: { prompt: "..." } 以匹配你的 Cloudflare Worker
             const prompt = currentLang === 'zh-CN'
                 ? `你是一个为孩子服务的助手。请根据以下主题，生成一句简短、简单、积极向上并且适合孩子说的话：“${userInput}”。请只返回这句话，不要任何多余的解释。`
-                : `You are an assistant for a child. Based on the following topic, generate one short, simple, and positive sentence suitable for a child to say: "${userInput}". Return only the sentence itself, with no extra explanation.`;
+                : `You are a friendly assistant for a child. Using the topic "${userInput}", write one short and simple positive and funny sentence that a child could naturally say. Respond with only that sentence and nothing else.`;
         
             const payload = { prompt };
         
